@@ -8,6 +8,7 @@ from PIL import Image
 import base64
 from Helpers import *
 
+
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
 
 def allowed_file(filename):
